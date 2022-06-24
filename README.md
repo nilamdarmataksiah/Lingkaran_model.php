@@ -1,1 +1,0 @@
-# Lingkaran_model.php
